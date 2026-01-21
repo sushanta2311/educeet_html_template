@@ -1,0 +1,2 @@
+# educeet_html_template
+educeet_html_template
